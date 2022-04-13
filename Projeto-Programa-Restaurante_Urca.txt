@@ -1,0 +1,23 @@
+Desenvolver um programa que crie fluxo de caixa para um restaurante
+
+Programa deve conter opções principais de almoço = 'def', 'while' e 'if' 
+Bomboniere = excel
+Produtos avulsos = excel
+Inclusão de novos produtos = excel
+Contagem de produtos = def/while/if
+Formas de pagamentos = excel
+Valores separados por forma de pagamento = 'def', 'while' e 'if'
+Fluxo final de caixa = tkinter/pandas/outlook/twilio
+Valores totais do dia = tkinter/pandas/outlook/twilio
+
+Programa deve conter interface gráfica = Tkinter
+Botões que auxiliem nas funções = tkinter
+botões que apresentem resumos = tkinter/while/if
+Botões de fechamento e faturamento = tkinter/pandas/outlook/twilio/
+
+Condições de acionar o envio de resumo via e-mail/menssagem
+Envio automático no fechamento = outlook/twilio
+
+Programa tem que ser executável = pywin32
+
+Pasta para inclusão e edição de arquivos excel
